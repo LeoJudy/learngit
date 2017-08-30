@@ -1,7 +1,7 @@
 
 public void Main{
     
-    private String name = "Feature 1";
+    private String name = "Main";
 
     public static void main(String[] args){
         System.out.println("Hello Git!");
