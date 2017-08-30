@@ -1,7 +1,7 @@
 
 public void Main{
     
-    private String name = "Main";
+    private String name = "for master";
 
     public static void main(String[] args){
         System.out.println("Hello Git!");
